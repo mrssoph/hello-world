@@ -1,3 +1,4 @@
 # _hello-world_
-:blink:
+:EMOJICODE:
+:smile:
 Test
